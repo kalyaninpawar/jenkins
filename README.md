@@ -2,7 +2,8 @@
 
 ### Step 1: Check java is installed
 ### Step 2: Download Jenkins war file
-### Step 3: Goto Cmd Jenkins.war --httpPort=9090
+### Step 3: Goto Cmd 
+### java -jar Jenkins.war --httpPort=9090
 ### Step 4: On Browser goto http://local:9090
 ### Step 5: Provide admin password & complete step. 
 
